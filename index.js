@@ -8,3 +8,10 @@ console.log(add(44,33))
  bla = 2
 
  console.log(bla)
+
+ let name = "Nelson"
+ name = "NZ"
+ console.log(name)
+
+ const num = 100.22
+ console.log(num)
