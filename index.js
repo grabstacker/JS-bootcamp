@@ -15,3 +15,7 @@ console.log(add(44,33))
 
  const num = 100.22
  console.log(num)
+
+ for(var i = 0; i < 10;i++){
+     console.log("Shots fired " + i)
+ }
