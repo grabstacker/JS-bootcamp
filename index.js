@@ -19,3 +19,11 @@ console.log(add(44,33))
  for(var i = 0; i < 10;i++){
      console.log("Shots fired " + i)
  }
+var a,b = true
+
+function myfunction(){ 
+if(a || b){
+    return console.log("a or b orasda");
+ }
+}
+myfunction()
